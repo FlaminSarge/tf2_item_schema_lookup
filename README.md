@@ -4,7 +4,7 @@ Provides the functionality of TF2ItemsInfo/TF2IDB's commands without TF2II/TF2ID
 Your results may vary.
 
 Requires:
-* https://github.com/nosoop/SM-TFEconDataCompat and anything that requires
+* https://github.com/nosoop/SM-TFEconDataCompat and anything it requires
 * `data/tf2itemsinfo.txt` from https://forums.alliedmods.net/showthread.php?t=182918
 
 Commands:
